@@ -8,4 +8,4 @@ opencv-python==4.9.0
 opencv-python-headless==4.9.0
 pillow @ file:///D:/bld/pillow_1712154618372/work
 setuptools==70.0.0
-wheel==0.43.0
+wheel==0.43.0y
